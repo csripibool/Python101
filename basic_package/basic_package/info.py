@@ -1,0 +1,2 @@
+name = 'Chanyanuch'
+lastname = 'Sripibool'
